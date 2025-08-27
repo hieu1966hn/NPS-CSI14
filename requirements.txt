@@ -1,0 +1,13 @@
+streamlit
+numpy
+Pillow
+tensorflow-macos
+tensorflow-metal
+
+
+# *   **Giải thích nội dung file:**
+#     *   `streamlit`: Thư viện để chạy ứng dụng web.
+#     *   `numpy`: Thư viện tính toán số học.
+#     *   `Pillow`: Thư viện xử lý hình ảnh.
+#     *   `tensorflow-macos`: Phiên bản TensorFlow được Apple tối ưu hóa riêng cho máy Mac chip M.
+#     *   `tensorflow-metal`: Plugin giúp TensorFlow tận dụng sức mạnh của GPU trên máy Mac M1/M2, giúp tăng tốc độ xử lý.

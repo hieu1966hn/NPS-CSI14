@@ -1,4 +1,9 @@
 .venv
 
+/asl-streamlit
+
 
 .DS_Store
+
+
+.qodo
